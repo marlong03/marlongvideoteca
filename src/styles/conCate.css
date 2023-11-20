@@ -1,0 +1,11 @@
+.contenedorXcateg {
+    margin-bottom: 1.5rem;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 4px 4px 3px 4px #2907ec50;
+}
+
+.titleCateg {
+    text-align: left;
+    margin-top: 1ch;
+    margin-right: 2ch;
+  }

@@ -1,0 +1,12 @@
+.cloud {
+    width: 25rem; height: 13rem;
+    background: #BFF;
+    border-radius: 100px;
+    position: absolute;
+    margin: 120px auto 20px;
+}
+
+#bodyModal {
+    color: black;
+    font-size: small;
+}

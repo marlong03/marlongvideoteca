@@ -1,0 +1,42 @@
+.iframe1 {
+    position:relative;
+    display:block;
+    height: 480px;
+    width: 650px;
+  }
+#iframe1{
+  width: 99% !important;
+  height: 99% !important;
+}
+.infoVideo{
+    padding-top:1.25%;
+    position:relative;
+}
+.styleIframe {
+    position:absolute;
+    top:0; 
+    left: 0;
+    
+}
+iframe {
+  width: 100% !important;
+  height: 100% !important;
+  
+}
+#contenedorItemVideo {
+  background-color: rgb(44, 42, 42);
+  color: azure;
+  width: 100%;
+  overflow: hidden;
+}
+
+@media (max-width: 650px) {
+  .infoVideo{
+    padding-top:0.25%;
+    position:relative;
+    padding-bottom: 40%;
+  }
+  .iframe1 {
+    height: 380px;
+  }
+}

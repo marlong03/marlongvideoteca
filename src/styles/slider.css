@@ -1,0 +1,10 @@
+.item{
+    height: 20rem;
+    min-width: 30rem;
+    padding: 2rem;
+}
+.item img{
+    height: 90%;
+    width: 100%;
+    pointer-events: none;
+}

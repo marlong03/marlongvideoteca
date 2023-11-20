@@ -1,0 +1,23 @@
+#tituloModal {
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+#titleModal {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.commentModal {
+    border: "2px solid #ccc";
+    border-radius: "40px";
+    box-shadow: "4px 4px 4px 0px #5a28e550"
+}
+#tituloName {
+    font-size: "24px";
+    margin-bottom: 2rem;
+}
+
+.container1 {
+    margin-top: 4rem;
+}

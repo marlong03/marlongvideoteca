@@ -1,0 +1,15 @@
+.notifications-dropdown {
+    display: none;
+    position: absolute;
+    top: 40px;
+    right: 0;
+    min-width: 200px;
+    background-color: #ffffff;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    padding: 8px;
+  }
+  
+  .notifications-dropdown.open {
+    display: block;
+  }

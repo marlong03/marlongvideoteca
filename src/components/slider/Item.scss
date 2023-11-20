@@ -1,0 +1,19 @@
+.item {
+    flex: 0 0 19.7%;
+    transition: transform 600ms ease 400ms;
+    margin: 0 0px;
+    position: relative;
+  
+    
+  }
+  .imagen-container {
+    width: 350px; /* Ancho fijo deseado */
+    height: 180px; /* Altura fija deseada */
+    overflow: hidden; /* Recorta las imágenes que sean más grandes */
+  }
+  img {
+      max-width: 100%; /* Establece un ancho máximo del 100% */
+      width: 300px; /* Ancho fijo deseado */
+      min-height: 200px; /* Altura automática para mantener la proporción original */
+      object-fit: cover;
+    }
